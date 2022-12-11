@@ -1,3 +1,4 @@
+![Tugas-CSS-NIOMIC](https://user-images.githubusercontent.com/89910124/206887849-280cca0a-9319-4e97-8bb7-00f58581225c.png)
 # TUGAS_1_CSS
 Tugas 1 CSS
 
