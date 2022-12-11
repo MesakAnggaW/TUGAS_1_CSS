@@ -1,11 +1,11 @@
 # TUGAS_1_CSS
 Tugas 1 CSS
 
-Membuat Judul (teks warna hijau) menggunakan elemen HTML Heading 1
-Membuat Sub Judul (teks warna merah) menggunakan elemen HTML Heading 2
-Membuat Deskripsi (teks warna biru) menggunakan elemen HTML Paragraf
-Membuat Komentar pada Internal CSS yang mendeskripsikan “Apa Itu CSS” menurut anda
-Menggunakan Media Type berjenis Screen pada External CSS
-Menggunakan Inline CSS (dengan setting warna merah) pada Heading 2
-Menggunakan Internal CSS (dengan setting warna hijau) pada Heading 1
-Menggunakan External CSS (dengan setting font 18 pixel dan warna biru) pada Paragraf
+1. Membuat Judul (teks warna hijau) menggunakan elemen HTML Heading 1
+2. Membuat Sub Judul (teks warna merah) menggunakan elemen HTML Heading 2
+3. Membuat Deskripsi (teks warna biru) menggunakan elemen HTML Paragraf
+4. Membuat Komentar pada Internal CSS yang mendeskripsikan “Apa Itu CSS” menurut anda
+5. Menggunakan Media Type berjenis Screen pada External CSS
+6. Menggunakan Inline CSS (dengan setting warna merah) pada Heading 2
+7. Menggunakan Internal CSS (dengan setting warna hijau) pada Heading 1
+8. Menggunakan External CSS (dengan setting font 18 pixel dan warna biru) pada Paragraf
